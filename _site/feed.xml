@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Mar 2016 11:21:53 +0800</pubDate>
-    <lastBuildDate>Fri, 18 Mar 2016 11:21:53 +0800</lastBuildDate>
+    <pubDate>Fri, 18 Mar 2016 11:26:58 +0800</pubDate>
+    <lastBuildDate>Fri, 18 Mar 2016 11:26:58 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -20,9 +20,31 @@
 &lt;/dl&gt;
 --&gt;
 
-&lt;p&gt;  文明其精神，野蛮其体魄。”文艺与体育，自蔡元培先生治校以降，恰如灿烂双星，在北大的历史上熠熠生辉。&lt;br /&gt;
-  “美育者，与智育相辅而行，以图德育之完成者也。”&lt;br /&gt;
+&lt;p&gt;  文明其精神，野蛮其体魄。”文艺与体育，自&lt;code class=&quot;highlighter-rouge&quot;&gt;蔡元培&lt;/code&gt;先生治校以降，恰如灿烂双星，在北大的历史上熠熠生辉。&lt;br /&gt;&lt;br /&gt;
+  “美育者，与智育相辅而行，以图德育之完成者也。”&lt;br /&gt; &lt;br /&gt;
   北京大学的美育传统源远流长，在中国近现代教育史上有着重要地位。最早的《美学》和《美术史》课程，我国近代最早的管弦乐队，最早的专业音乐教育机构——北大音乐传习所，以及最早的专业音乐刊物——《音乐杂志》，均诞生于北大。20世纪20年代，在蔡先生扶持下，画法、书法、音乐、戏剧等研究会先后组建，此后历任领导对艺术教育均给予了相当程度的重视。2013年，北京大学学生艺术总团和学生文化艺术协会正式成立，为进一步推进艺术教育打下坚实基础。目前，北大共有文化艺术类社团59家，院系和校内各单位自组织文艺团体若干，为繁荣校园文化均作出了重要贡献。&lt;/p&gt;
+
+&lt;!--You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.--&gt;
+&lt;!----&gt;
+&lt;!--To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.--&gt;
+&lt;!----&gt;
+&lt;!--Jekyll also offers powerful support for code snippets:--&gt;
+&lt;!----&gt;
+&lt;!--
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;o&quot;&gt;--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;lt;!--&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;lt;!--&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;lt;!--&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;lt;!--&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;lt;!--&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;lt;!--&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+--&gt;
+&lt;!----&gt;
+&lt;!--Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].--&gt;
+&lt;!----&gt;
+&lt;!--[jekyll]:      http://jekyllrb.com--&gt;
+&lt;!--[jekyll-gh]:   https://github.com/jekyll/jekyll--&gt;
+&lt;!--[jekyll-help]: https://github.com/jekyll/jekyll-help--&gt;
 
 </description>
         <pubDate>Thu, 17 Mar 2016 19:06:43 +0800</pubDate>
@@ -30,9 +52,7 @@
         <guid isPermaLink="true">http://yourdomain.com/blog/2016/03/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AD%A6%E6%A0%A1%E6%B4%BB%E5%8A%A8</guid>
         
         
-        <category>Jekyll</category>
-        
-        <category>Update</category>
+        <category>Wang</category>
         
       </item>
     
