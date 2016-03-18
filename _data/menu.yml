@@ -1,0 +1,16 @@
+- title: "关于本校"
+  href: "/关于本校/"
+
+- title: "教育教学"
+  href: "/教育教学/"
+
+- title: "CV"
+  href: "/cv/"
+
+- title: "Miscellany"
+  href: "/miscellany/"
+  subcategories:
+    - subtitle: "Item 1"
+      subhref: "/miscellany/item-1/"
+    - subtitle: "Item 2"
+      subhref: "/miscellany/item-2/"
