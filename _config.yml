@@ -1,13 +1,13 @@
 # Site settings
 title: 双柳恩溢小学
 email: your-email@domain.com
-# address:我家附近
+# address: 我家附近
 description: > # this means to ignore newlines until "baseurl:"
   这是我创建的双柳恩溢小学的网页。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-# github_username:  jekyll
+twitter_username: "电话：4008-666-666"
+github_username:  "地址：我家附近的一个小黑网吧旁边"
 
 # Build settings
 markdown: kramdown
