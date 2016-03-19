@@ -3,11 +3,11 @@ title: 双柳恩溢小学
 email: your-email@domain.com
 # address: 我家附近
 description: > # this means to ignore newlines until "baseurl:"
-  这是我创建的双柳恩溢小学的网页。
+  欢迎您的孩子到双柳恩溢小学求学成才！
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: "电话：4008-666-666"
-github_username:  "地址：我家附近的一个小黑网吧旁边"
+twitter_username: "招生电话：13839700633"
+github_username:  "地址：双柳树镇环镇北路（双柳树派出所东一公里汪井组）"
 
 # Build settings
 markdown: kramdown
